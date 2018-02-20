@@ -1,0 +1,21 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/shadeegun/IdeaProjects/scala-assignments/target/scala-2.12/gameofthrones_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gameofthrones/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shadeegun/IdeaProjects/scala-assignments/target/scala-2.12/classes/gameofthrones/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gameofthrones[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shadeegun/IdeaProjects/scala-assignments/target/scala-2.12/classes/gameofthrones[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gameofthrones/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shadeegun/IdeaProjects/scala-assignments/target/scala-2.12/classes/gameofthrones/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gameofthrones/Main$characterDefinition$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shadeegun/IdeaProjects/scala-assignments/target/scala-2.12/classes/gameofthrones/Main$characterDefinition$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gameofthrones/Main$characterDefinition$Character.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shadeegun/IdeaProjects/scala-assignments/target/scala-2.12/classes/gameofthrones/Main$characterDefinition$Character.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gameofthrones/Main$characterDefinition$Character$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shadeegun/IdeaProjects/scala-assignments/target/scala-2.12/classes/gameofthrones/Main$characterDefinition$Character$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gameofthrones/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shadeegun/IdeaProjects/scala-assignments/target/scala-2.12/classes/gameofthrones/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gameofthrones/CharacterDefinition.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shadeegun/IdeaProjects/scala-assignments/target/scala-2.12/classes/gameofthrones/CharacterDefinition.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gameofthrones/Main$readFile$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shadeegun/IdeaProjects/scala-assignments/target/scala-2.12/classes/gameofthrones/Main$readFile$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

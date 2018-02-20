@@ -1,0 +1,42 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(/home/shadeegun/IdeaProjects/scala-assignments/src/main/scala/gameofthrones/CharacterDefinition.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/home/shadeegun/IdeaProjects/scala-assignments/src/main/scala/gameofthrones/CharacterDefinition.scala)[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to /home/shadeegun/IdeaProjects/scala-assignments/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.1.1:compile for Scala 2.12.3[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.1.1:compile for Scala 2.12.3[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 70eaba04 for Scala compiler version 2.12.3[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/shadeegun/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.3.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/shadeegun/IdeaProjects/scala-assignments/target/scala-2.12/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.862830316 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from gameofthrones.CharacterDefinition...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(gameofthrones.CharacterDefinition)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(gameofthrones.CharacterDefinition)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(gameofthrones.CharacterDefinition,ModifiedNames(changes = UsedName(notify,[Default]), UsedName(finalize,[Default]), UsedName(asInstanceOf,[Default]), UsedName(!=,[Default]), UsedName(##,[Default]), UsedName(eq,[Default]), UsedName(toString,[Default]), UsedName($isInstanceOf,[Default]), UsedName(notifyAll,[Default]), UsedName(gameofthrones;CharacterDefinition;init;,[Default]), UsedName(synchronized,[Default]), UsedName(equals,[Default]), UsedName(CharacterDefinition,[Default]), UsedName(==,[Default]), UsedName(ne,[Default]), UsedName($asInstanceOf,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]), UsedName(isInstanceOf,[Default]))) invalidates 1 classes due to The gameofthrones.CharacterDefinition has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(notify,[Default]), UsedName(finalize,[Default]), UsedName(asInstanceOf,[Default]), UsedName(!=,[Default]), UsedName(##,[Default]), UsedName(eq,[Default]), UsedName(toString,[Default]), UsedName($isInstanceOf,[Default]), UsedName(notifyAll,[Default]), UsedName(gameofthrones;CharacterDefinition;init;,[Default]), UsedName(synchronized,[Default]), UsedName(equals,[Default]), UsedName(CharacterDefinition,[Default]), UsedName(==,[Default]), UsedName(ne,[Default]), UsedName($asInstanceOf,[Default]), UsedName(hashCode,[Default]), UsedName(wait,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]), UsedName(isInstanceOf,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(gameofthrones.CharacterDefinition)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m
